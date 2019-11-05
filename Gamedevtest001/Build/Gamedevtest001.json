@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game Dev",
+"productVersion": "1.0",
+"dataUrl": "Gamedevtest001.data.unityweb",
+"asmCodeUrl": "Gamedevtest001.asm.code.unityweb",
+"asmMemoryUrl": "Gamedevtest001.asm.memory.unityweb",
+"asmFrameworkUrl": "Gamedevtest001.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
